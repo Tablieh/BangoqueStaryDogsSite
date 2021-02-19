@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+   
+    height: fit-content;
+    background-color: rgb(4, 107, 138);
+    max-width: max-content;
+    margin: auto;
+}
+img{
+    width: 100%;
+    height: 350px;
+    float: top ;
+    margin-bottom: 20px;
+}
+#row{
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#top{
+    height: 40px;
+    padding-top: 1%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    color: black;
+    background-color: royalblue;
+}
+
+h3{
+    color: rgb(202, 189, 9);
+    text-align: center;
+
+
+}
+nav{
+    margin: 0px 16px 10px 10px;
+    height: 120px;
+    width: 120px;
+    background-color: royalblue;
+    text-align: justify;
+    text-decoration-color: rgb(115, 5, 129);
+    padding: 0px 10px 0px 0px;
+}
+#Accueil{
+    padding: 0px 15px 0px 15px ;
+    text-align: justify;
+    background-color: royalblue;
+    margin-bottom: 150px;
+}
+
+.photo{
+    margin-top: -3px;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    height: 400px;
+    background-color: royalblue;
+    border: 1px solid white;
+    text-justify: auto;
+   
+}
+h2{
+    text-align: justify;
+
+    color: rgb(68, 7, 182);
+
+}
+#photosmall{
+
+    height: 200px;
+    margin-bottom: -5px;
+}
+.photo_border{
+    border: 1px solid white;
+    width: 160px;
+    margin: auto;
+}
+#text{
+   text-align: justify; 
+}
+
+footer{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(207, 182, 189);
+    padding-left: 160px;
+
+}
+
+#cont{
+    background-color: rgb(179, 8, 73);
+    width: 70%;
+    margin: auto;
+}
+#par{
+    margin-bottom: -20px;
+    padding-top: 1%;
+    font-size: 20px;
+}
